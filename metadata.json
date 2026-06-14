@@ -1,0 +1,8 @@
+{
+  "name": " Lorelight 1.2.1",
+  "description": "Zen-like TTS Reader with a Forest Theme",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

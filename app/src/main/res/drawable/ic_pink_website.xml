@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer Globe ring -->
+    <path
+        android:pathData="M12,21 A9,9 0 1,0 12,3 A9,9 0 1,0 12,21"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8" />
+    <!-- Latitude Line 1 (Equator) -->
+    <path
+        android:pathData="M3,12 L21,12"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5" />
+    <!-- Longitude Oval 1 (Meridian) -->
+    <path
+        android:pathData="M12,3 C15,7 15,17 12,21"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5" />
+    <!-- Longitude Oval 2 (Reverse Meridian) -->
+    <path
+        android:pathData="M12,3 C9,7 9,17 12,21"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5" />
+    <!-- Decorative Orbit/Light ray (representing internet/ LoreLight connection) -->
+    <path
+        android:pathData="M4.5,6.5 C9.5,4 14.5,4 19.5,6.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round" />
+</vector>

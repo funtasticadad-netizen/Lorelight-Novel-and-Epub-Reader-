@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer soft leaf border representing the vessel of stories -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,3 C8.5,6.5 5.5,10 5.5,14 C5.5,17.8 8.4,20.5 12,20.5 C15.6,20.5 18.5,17.8 18.5,14 C18.5,10 15.5,6.5 12,3 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Rising central stem that grows from the roots -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,20.5 L12,8.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <!-- Plant sprouts branching off to symbolize reading growth -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,15.5 C10.5,14.5 9,14 8.5,14.5 C8,15 9,16.5 10.5,17"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,12.5 C13.5,11.5 15,11 15.5,11.5 C16,12 15,13.5 13.5,14"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

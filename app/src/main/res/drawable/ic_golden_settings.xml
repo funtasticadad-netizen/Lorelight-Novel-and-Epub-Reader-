@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Ornate Key Bow (Top Round Ring) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,8 A3.5,3.5 0 1,0 12,1 A3.5,3.5 0 1,0 12,8"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8" />
+    <!-- Center Pivot pin -->
+    <path
+        android:pathData="M11,4.5 A1,1 0 1,0 13,4.5 A1,1 0 1,0 11,4.5"
+        android:fillColor="#FF000000" />
+    <!-- Key Shaft -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,8 L12,21"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <!-- Key Bit (Tooth) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,17 L15,17 L15,19 L12,19"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,14 L14,14 L14,15.5 L12,15.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

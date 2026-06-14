@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Sleek Stealth Futuristic Holo-Book -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M4,18 L4,5 C4,4.5 4.5,4 5,4 L19,4 C19.5,4 20,4.5 20,5 L20,18"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M3,18 L21,18 L19,21 L5,21 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round" />
+    <!-- Glowing digital core (represented by chrome square) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M9,8 L15,8 L15,14 L9,14 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M11,10 L13,10 L13,12 L11,12 Z" />
+</vector>

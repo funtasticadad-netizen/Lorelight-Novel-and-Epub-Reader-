@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer soft tree ring timeline -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,2.5 C6.8,2.5 2.5,6.8 2.5,12 C2.5,17.2 6.8,21.5 12,21.5 C17.2,21.5 21.5,17.2 21.5,12 C21.5,6.8 17.2,2.5 12,2.5 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Secondary inner ring representing growth cycles -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,6.5 C9.0,6.5 6.5,9.0 6.5,12 C6.5,15.0 9.0,17.5 12,17.5 C15.0,17.5 17.5,15.0 17.5,12"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Clock hands styled as soft forest leaves pointing to reading time -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,12 C12,12 12.5,10 13.5,8 C14,8.5 14,9.5 13.5,10.5 C13,11 12,12 12,12"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,12 C12,12 10.5,12 9,11.5 C9,11 10,10.5 11,11 C11.5,11.2 12,12 12,12"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

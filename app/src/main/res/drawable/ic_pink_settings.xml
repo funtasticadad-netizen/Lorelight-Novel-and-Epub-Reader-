@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Center Hub -->
+    <path
+        android:pathData="M12,14 A2,2 0 1,0 12,10 A2,2 0 1,0 12,14"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8" />
+    <!-- Main Gear Ring -->
+    <path
+        android:pathData="M12,17 A5,5 0 1,0 12,7 A5,5 0 1,0 12,17"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8" />
+    <!-- Clean Minimalist Gear Teeth (8 symmetrical teeth) -->
+    <!-- Top and Bottom -->
+    <path
+        android:pathData="M12,5 L12,7"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M12,17 L12,19"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <!-- Left and Right -->
+    <path
+        android:pathData="M5,12 L7,12"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M17,12 L19,12"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <!-- Diagonals -->
+    <path
+        android:pathData="M7,7 L8.5,8.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M15.5,15.5 L17,17"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M17,7 L15.5,8.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M8.5,15.5 L7,17"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round" />
+</vector>

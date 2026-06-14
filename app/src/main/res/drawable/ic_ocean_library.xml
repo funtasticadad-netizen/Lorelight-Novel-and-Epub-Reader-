@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Open Book Pages with Wave curve bottom -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,19 C7,19 4,17.5 4,15.5 L4,6 C4,4.5 7,4 12,5.5 C17,4 20,4.5 20,6 L20,15.5 C20,17.5 17,19 12,19 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M12,5.5 L12,19"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.8" />
+    <!-- Dynamic water droplet or crested wave ornament on the pages -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M6,10 C7,9 8,9 9,10"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M15,10 C16,9 17,9 18,10"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+</vector>
