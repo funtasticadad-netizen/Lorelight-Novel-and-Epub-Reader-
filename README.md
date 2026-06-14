@@ -52,16 +52,9 @@ Lorelight supports several visual themes, each with its own color palette and ic
 
 ---
 
-## 🚀 Run Locally
+## 📥 Download
 
-**Prerequisites:** [Android Studio](https://developer.android.com/studio)
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project
-4. Create a file named `.env` in the project root and set `GEMINI_API_KEY` (see `.env.example`)
-5. In `app/build.gradle.kts`, remove or update the line: `signingConfig = signingConfigs.getByName("debugConfig")` if you don't have a debug signing config set up
-6. Run the app on an emulator or physical device
+Grab the latest APK from the [Releases page](../../releases) and install it on your Android device.
 
 ---
 
