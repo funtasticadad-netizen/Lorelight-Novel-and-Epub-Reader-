@@ -87,6 +87,9 @@ Join the Lorelight Discord — all bug reports, feature requests, and discussion
 
 ---
 
+
+---
+
 ## Community
 
 Got a bug? Have an idea? Want to discuss features or just hang out with fellow readers?
