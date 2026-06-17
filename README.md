@@ -84,3 +84,13 @@ Join the Lorelight Discord — all bug reports, feature requests, and discussion
 ![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)
 
 ](https://discord.gg/nyFMhq9EFw)
+
+---
+
+## Community
+
+Got a bug? Have an idea? Want to discuss features or just hang out with fellow readers?
+
+Join the Lorelight Discord:
+
+https://discord.gg/nyFMhq9EFw
