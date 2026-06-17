@@ -79,4 +79,8 @@ Got a bug? Have an idea? Want to discuss features or just hang out with fellow r
 
 Join the Lorelight Discord — all bug reports, feature requests, and discussions happen there!
 
-[[Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)(https://discord.gg/nyFMhq9EFw)]
+<p align="center">
+  <a href="https://discord.gg/nyFMhq9EFw">
+    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+  </a>
+</p>
